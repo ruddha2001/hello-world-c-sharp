@@ -1,0 +1,16 @@
+/mnt/Workstation/Personal/FirstDotNetApp/bin/Debug/net5.0/FirstDotNetApp
+/mnt/Workstation/Personal/FirstDotNetApp/bin/Debug/net5.0/FirstDotNetApp.deps.json
+/mnt/Workstation/Personal/FirstDotNetApp/bin/Debug/net5.0/FirstDotNetApp.runtimeconfig.json
+/mnt/Workstation/Personal/FirstDotNetApp/bin/Debug/net5.0/FirstDotNetApp.runtimeconfig.dev.json
+/mnt/Workstation/Personal/FirstDotNetApp/bin/Debug/net5.0/FirstDotNetApp.dll
+/mnt/Workstation/Personal/FirstDotNetApp/bin/Debug/net5.0/ref/FirstDotNetApp.dll
+/mnt/Workstation/Personal/FirstDotNetApp/bin/Debug/net5.0/FirstDotNetApp.pdb
+/mnt/Workstation/Personal/FirstDotNetApp/obj/Debug/net5.0/FirstDotNetApp.csprojAssemblyReference.cache
+/mnt/Workstation/Personal/FirstDotNetApp/obj/Debug/net5.0/FirstDotNetApp.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/Workstation/Personal/FirstDotNetApp/obj/Debug/net5.0/FirstDotNetApp.AssemblyInfoInputs.cache
+/mnt/Workstation/Personal/FirstDotNetApp/obj/Debug/net5.0/FirstDotNetApp.AssemblyInfo.cs
+/mnt/Workstation/Personal/FirstDotNetApp/obj/Debug/net5.0/FirstDotNetApp.csproj.CoreCompileInputs.cache
+/mnt/Workstation/Personal/FirstDotNetApp/obj/Debug/net5.0/FirstDotNetApp.dll
+/mnt/Workstation/Personal/FirstDotNetApp/obj/Debug/net5.0/ref/FirstDotNetApp.dll
+/mnt/Workstation/Personal/FirstDotNetApp/obj/Debug/net5.0/FirstDotNetApp.pdb
+/mnt/Workstation/Personal/FirstDotNetApp/obj/Debug/net5.0/FirstDotNetApp.genruntimeconfig.cache
